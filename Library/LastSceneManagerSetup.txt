@@ -1,4 +1,5 @@
 <<<<<<< refs/remotes/origin/main
+<<<<<<< refs/remotes/origin/main
 sceneSetups:
 - path: Assets/Scenes/MainGameScene.unity
   isLoaded: 0
@@ -7,3 +8,10 @@ sceneSetups:
 =======
 sceneSetups: []
 >>>>>>> Added more icons and first empty script of handling incoming energy for display
+=======
+sceneSetups:
+- path: Assets/Scenes/MainGameScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+>>>>>>> Auto stash before rebase of "refs/heads/master"
