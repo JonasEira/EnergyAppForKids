@@ -1,5 +1,9 @@
+<<<<<<< refs/remotes/origin/main
 sceneSetups:
 - path: Assets/Scenes/MainGameScene.unity
   isLoaded: 0
   isActive: 0
   isSubScene: 0
+=======
+sceneSetups: []
+>>>>>>> Added more icons and first empty script of handling incoming energy for display
