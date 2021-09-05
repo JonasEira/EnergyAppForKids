@@ -55,7 +55,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\DataListener.cs" />
      <Compile Include="Assets\HONETi\mobile_cartoon_GUI\Scripts\switch_scenes.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/dev/EnergyAppForKids/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
